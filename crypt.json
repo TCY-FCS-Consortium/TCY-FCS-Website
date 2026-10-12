@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "iterations": 600000,
+  "salt": "M5v5yiQe6ATWqB1ye06EJw==",
+  "check": "87878638078335bd80995dce16f1c5f9",
+  "note": "Not secret. Key-derivation parameters for the encrypted site; see script/encrypt_site.rb in the source."
+}
